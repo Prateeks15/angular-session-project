@@ -1,0 +1,40 @@
+{
+  "products": [
+ {
+   "id": 1,
+   "name": "Item 1",
+   "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+   "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWO_m7y6ZPzljpf3YQ0udTJT8reG_sBOtd3ycRvVfS4zCJuNvQS5H_aqbdxq5Ag1tgwfO17KVP&usqp=CAc",
+   "price": 299
+ },
+ {
+  "id": 2,
+  "name": "Item 2",
+  "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+  "imageUrl": "https://cdn1.evitamins.com/images/products/Home_Health_Products/352557/1400/352557_front.jpg",
+  "price": 199
+},
+{
+  "id": 3,
+  "name": "Item 3",
+  "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+  "imageUrl": "https://cdn1.evitamins.com/images/products/Alta_Health_Products/1186/1400/1186_01.jpg",
+  "price": 99
+},
+{
+  "id": 4,
+  "name": "Item 4",
+  "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+  "imageUrl": "https://cdn1.evitamins.com/images/products/Home_Health_Products/352557/1400/352557_front.jpg",
+  "price": 599
+},
+{
+  "id": 5,
+  "name": "Item 5",
+  "description": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+  "imageUrl": "https://cdn1.evitamins.com/images/products/Alta_Health_Products/1186/1400/1186_01.jpg",
+  "price": 499
+}
+
+  ]
+}
