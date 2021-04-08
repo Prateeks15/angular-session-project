@@ -1,7 +1,7 @@
 # ShoppingCart
 
-##Open terminal and install npm i -g json-server
-##After that run command json-server --watch db.json
+## Open terminal and install npm i -g json-server
+## After that run command json-server --watch db.json
 ## This command is used to run fake db server
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
